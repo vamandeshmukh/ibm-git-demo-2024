@@ -1,0 +1,6 @@
+Class Yuvraj
+{
+main()
+{
+}
+}
